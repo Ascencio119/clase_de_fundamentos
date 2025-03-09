@@ -1,1 +1,3 @@
 En la clase estamos enfocados en GitHub
+como por ejemplo en los repositorios, ¿Que son?, ¿Como se crean?, ¿Para que sirven?, etc
+
